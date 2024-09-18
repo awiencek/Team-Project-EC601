@@ -1,7 +1,19 @@
 # Team-Project-EC601
 
-##Project Definition
+## Project Definition
 [text here]
-###target users
-###user stories
-###mvp
+### Target Users
+### User Stories
+### MVP
+
+--------------------
+## How To Use
+### Libraries
+### Building
+### Running
+
+-------------------
+## References
+
+## Authors
+[our names]
