@@ -1,4 +1,4 @@
-# Team-Project-EC601
+# Submersible Exploration Engine (SEE)
 
 ## Project Definition
 #### Mission Statement
