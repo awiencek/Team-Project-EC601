@@ -23,7 +23,7 @@ For whoever wants or needs a tool for underwater exploration, SEE (Submersible E
 Our minimum viable product is a pair of robots that can communicate with each other where the user can switch between a thermometer and IMU.
 
 ### Submersible Exploration Engine Video!
-[![Watch here](https://www.youtube.com/watch?v=h1W1ODobuWc)]
+Watch here! (https://www.youtube.com/watch?v=h1W1ODobuWc)
 
 
 --------------------
