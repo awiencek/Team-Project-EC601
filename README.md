@@ -36,4 +36,4 @@ Watch here! (https://www.youtube.com/watch?v=h1W1ODobuWc)
 ## References
 
 ## Authors
-[our names]
+Abdulaziz AlMailam, Trevor Poppe, Alexa Wiencek
